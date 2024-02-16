@@ -1,8 +1,8 @@
-.appComponent{
-    background: #fafafa;
-}
-
 .title{
     text-align: center;
     margin: auto;
+}
+
+.colorTitle{
+    background: skyblue;
 }
